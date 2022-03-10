@@ -51,12 +51,11 @@ SOFTWARE.
 
 
   ## Built With
-
-  *Express
-  *MySQL
-  *Sequelize
-  *Handlebars
-  *bcrypt
+  -Express
+  -MySQL
+  -Sequelize
+  -Handlebars
+  -bcrypt
 
   ## Questions
   ### Contact Information
