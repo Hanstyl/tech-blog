@@ -12,9 +12,10 @@
   * [Credits](#credits)
   * [License](#license)
 
-  ## Screenshot
+  ## Screenshot of repo
 
-  (insert screen shot here)
+  ![Screen Shot 2022-03-10 at 12 06 46 AM](https://user-images.githubusercontent.com/79775889/157607651-b8bba882-faa4-4d6a-8be0-e459c5824046.png)
+
 
   ## Live App
 
